@@ -1,2 +1,28 @@
 # kibra-web-admin
-Made for FiveM. Web Admin Panel compatible with ExtendedMode infrastructure
+FiveM için yapılmış, ExtendedMode altyapı uyumlu Web Panel
+
+# Setup
+
+Dosyaları xampp/htdocs/ klasörüne attıktan sonra;
+
+```php
+<?php
+$servername = "localhost";
+$database = "kibrapack";
+$username = "root";
+$password = "";
+// Create connection
+$conn = mysqli_connect($servername, $username, $password, $database);
+// Check connection
+if (!$conn) {
+    die("Connection failed: " . 
+mysqli_connect_error());
+}
+echo "<font color='white'>Connected successfully</font>";
+mysqli_close($conn);
+?>
+```
+Veritabanı bağlantınızı vt.php dosyasından ayarlayın.
+
+Soru Ve Önerileriniz İçin: http://dc.emirkibar.com/
+
