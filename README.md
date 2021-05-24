@@ -22,7 +22,7 @@ echo "<font color='white'>Connected successfully</font>";
 mysqli_close($conn);
 ?>
 ```
-Veritabanı bağlantınızı vt.php dosyasından ayarlayın.
+Veritabanı bağlantınızı vt.php ve connect.php dosyasından ayarlayın.
 
 Soru Ve Önerileriniz İçin: http://dc.emirkibar.com/
 
