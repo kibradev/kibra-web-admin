@@ -22,6 +22,19 @@ echo "<font color='white'>Connected successfully</font>";
 mysqli_close($conn);
 ?>
 ```
+
+# settings.php Username Password Değiştirme
+
+```php
+<?php
+$user = "admin";
+$pass = "123456";
+$kibraworks = "Kibra Admin"
+?>
+```
+
+Bu kısımdan username ve şifreyi değiştirebilirsiniz.
+
 Veritabanı bağlantınızı vt.php ve connect.php dosyasından ayarlayın.
 
 Soru Ve Önerileriniz İçin: http://dc.emirkibar.com/
