@@ -1,0 +1,81 @@
+body {
+    background-color: #20222e;
+}
+
+.kibra-admin {
+    background-color: #14151c;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    margin-top: 5%;
+    border: 1px solid #9c9c9c;
+}
+
+.kibra-header {
+    backround-color: transparent;
+    width: 500px;
+    height: 60px;
+    margin: auto;
+}
+
+h1 {
+    color: #9c9c9c;
+    font-family: 'Poppins', sans-serif;
+    font-size: 35px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.kibra-input {
+    background-color: #242633;
+    border: 1px solid #9c9c9c;
+    padding: 10px 10px;
+    color: #9c9c9c;
+    margin-left: 75px;
+    margin-top: 40%;
+    font-family: 'Poppins', sans-serif;
+    width: 350px;
+    height: 45px;
+    
+}
+
+.kibra-input-2 {
+    background-color: #242633;
+    border: 1px solid #9c9c9c;
+    padding: 10px 10px;
+    color: #9c9c9c;
+    margin-left: 75px;
+    margin-top: 1%;
+    font-family: 'Poppins', sans-serif;
+    width: 350px;
+    height: 45px;
+    
+}
+
+p {
+    color: #9c9c9c;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+
+}
+
+.kibra-button {
+    background-color: transparent;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    width: 350px;
+    margin-left: 75px;
+    margin-top: 1%;
+    color: #9c9c9c;
+    font-size: 15px;
+    height: 45px;
+    border: 1px solid #9c9c9c;
+}
+
+.kibra-button:hover {
+    background-color: #9c9c9c;
+    color:#242633;
+    transition: 0.5s;
+}
+

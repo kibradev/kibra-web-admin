@@ -1,0 +1,31 @@
+body {
+    background-color: #20222e;
+}
+
+
+.kibra-alert {
+    background-color: #873737;
+    width: 500px;
+    height: 85px;
+    borde-radius: 5px;
+    margin:auto;
+    margin-top: 10%;
+    border: 1px;
+
+}
+
+h1 {
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    text-align:center;
+    width: 100%;
+}
+
+p {
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    text-align:center;
+    width: 100%;
+}

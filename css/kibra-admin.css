@@ -1,0 +1,25 @@
+body {
+    background-color: #20222e;
+    font-family: 'lato', sans-serif;
+}
+
+.kibra-admin-header {
+    background-color: #fff;
+    width: 400px;
+    height: 45px;
+    border: 1px;
+    border-radius: 15px;
+    margin-left: 35px;
+    margin-top: 5%;
+}
+
+h1 {
+    color: #fff;
+    font-size: 15px;
+}
+
+
+
+
+
+
